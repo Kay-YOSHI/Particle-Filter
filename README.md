@@ -1,9 +1,10 @@
-# State-Space-Model
+# Particle Filter
 
-This repository contains R code for the implementation of Kalman filter and particle filter.
+This repository contains R code for the implementation of particle filter.
 In the code, 
-I first generate a synthetic time-series data given a linear Gaussian state space model with specific parameter values. Then, I applied Kalman filter and particle filter to the data and show the filtering and smooting results from both methods. 
-For Kalman filter, I utilized *dlm* package.
+I first generate a synthetic time-series data given a linear Gaussian state space model with specific parameter values. 
+Then, I applied particle filter to the data and show the filtering and smooting results. 
+For comparison, I also applied Kalman filter to the same data using *dlm* package.
 
 ## References
 

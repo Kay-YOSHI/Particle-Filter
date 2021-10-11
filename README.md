@@ -1,4 +1,4 @@
-# 【Bayesian Statistics】Particle Filter
+# Particle Filter
 
 This repository contains R code for the implementation of particle filter.
 In the code, 
